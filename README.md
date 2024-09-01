@@ -8,5 +8,5 @@
 
 💞️ I’m looking to collaborate on projects that involve **Machine Learning**, **Data Science**, and **AI**. I'm particularly interested in projects that have a positive social impact, such as healthcare analytics, environmental monitoring, and education technology.
 
-📫 How to reach me: You can connect with me via [LinkedIn]([https://www.linkedin.com/in/harithapv/]) or drop an email at harithapv21@gmail.com.
+📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/harithapv/) or drop an email at harithapv21@gmail.com.
 
