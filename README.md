@@ -6,7 +6,7 @@
 
 💼 Dive into my GitHub to explore some exciting projects I've been working on! From **AI-driven chatbots** to **cutting-edge emotion recognition models** and **predictive fitness trackers**—there's a lot to discover. Your feedback and collaboration are always welcome!
 
-💞️ I’m looking to collaborate on projects that involve **Machine Learning**, **Data Science**, and **AI**. I'm particularly interested in projects that have a positive social impact, such as healthcare analytics, environmental monitoring, and education technology.
+💞️ I’m looking to collaborate on projects that involve **Machine Learning**, **Data Science**, and **AI**. 
 
 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/harithapv/).
 
