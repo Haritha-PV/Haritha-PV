@@ -8,5 +8,5 @@
 
 💞️ I’m looking to collaborate on projects that involve **Machine Learning**, **Data Science**, and **AI**. 
 
-📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/harithapv/).
+
 
